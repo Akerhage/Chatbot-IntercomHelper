@@ -1,0 +1,39 @@
+{
+  "section_title": "BASFAKTA - Lastbil (C, C1, CE, C1E)",
+  "source_info": "Information om de olika körkortsbehörigheterna för lastbil.",
+  "license_c1": {
+    "title": "Vad är C1-körkort (Medeltung lastbil)?",
+    "answer": "Med C1-körkort får du köra medeltunga lastbilar med en totalvikt på högst 7 500 kg. Du får också dra en lätt släpvagn (högst 750 kg).",
+    "keywords": ["vad är", "c1", "medeltung lastbil", "7500 kg"]
+  },
+  "license_c1e": {
+    "title": "Vad är C1E-körkort?",
+    "answer": "Med C1E-körkort får du köra samma fordon som med C1 (medeltung lastbil), men du får dra en eller flera släpvagnar så länge den sammanlagda totalvikten inte överstiger 12 000 kg.",
+    "keywords": ["vad är", "c1e", "medeltung lastbil", "tungt släp", "12000 kg"]
+  },
+  "license_c": {
+    "title": "Vad är C-körkort (Tung lastbil)?",
+    "answer": "Med C-körkort får du köra tunga lastbilar utan viktgräns. Du får också dra en lätt släpvagn (högst 750 kg).",
+    "keywords": ["vad är", "c", "tung lastbil", "utan viktgräns"]
+  },
+  "license_ce": {
+    "title": "Vad är CE-körkort?",
+    "answer": "Med CE-körkort får du köra tung lastbil (samma som C-behörighet) och du får dessutom dra en eller flera släpvagnar utan viktgräns.",
+    "keywords": ["vad är", "ce", "tung lastbil", "tungt släp"]
+  },
+  "general_requirements": {
+    "title": "Vilka grundkrav finns för att ta lastbilskörkort?",
+    "answer": "För att ta körkort för tung behörighet (C1, C, C1E, CE) krävs det generellt att du redan har ett svenskt B-körkort (personbil), har ett giltigt körkortstillstånd för grupp 2 eller 3, och klarar Trafikverkets kunskapsprov och körprov.",
+    "keywords": ["krav", "grundkrav", "lastbil", "c", "ce", "b-körkort", "körkortstillstånd"]
+  },
+  "age_requirements": {
+    "title": "Vad är ålderskravet för att ta lastbilskörkort?",
+    "answer": "Standardåldern för C och CE-körkort är 21 år. Om du utbildar dig till yrkesförare (YKB) kan du dock ta körkortet redan vid 18 års ålder.",
+    "keywords": ["ålder", "ålderskrav", "hur gammal", "lastbil", "c", "ce", "21 år", "18 år", "yrkesförare", "ykb"]
+  },
+  "training_locations": {
+    "title": "Var kan man utbilda sig för lastbil (CE) hos er?",
+    "answer": "Vi erbjuder utbildning för tung lastbil (CE) i Malmö, Hässleholm, Stockholm, Kristianstad och Göteborg. För alla frågor som rör tung trafik, kontakta vår specialiserade support på 010-188 83 26 eller tungtrafik@trafikskolan.com.",
+    "keywords": ["var", "städer", "utbildning", "lastbil", "ce", "kontakt", "telefon", "email"]
+  }
+}

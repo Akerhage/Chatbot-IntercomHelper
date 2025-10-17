@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "expert": "stress",
+      "question": "Vad kostar moppekurs i Götebrog?",
+      "expected_keywords": ["4499", "Göteborg"],
+      "comment": "Test alias + fuzzy match"
+    },
+    {
+      "expert": "stress",
+      "question": "Har ni AM-kurs på Limhamn?",
+      "expected_keywords": ["4499", "Malmö"],
+      "comment": "Test alias Limhamn -> Malmö"
+    },
+    {
+      "expert": "stress",
+      "question": "Vad kostar kursen?",
+      "expected_keywords": ["vilken kurs", "vilken stad"],
+      "comment": "Vag fråga - botten ska fråga tillbaka om kurs OCH stad"
+    },
+    {
+      "expert": "stress",
+      "question": "Kan jag boka AM och bilkörlektion i Helsingborg?",
+      "expected_keywords": ["4499", "Helsingborg", "1249", "Boka här"],
+      "comment": "RÄTTAT: Helsingborg har 1249 SEK för bil, inte 1349!"
+    },
+    {
+      "expert": "stress",
+      "question": "Vad ingår i moppekursen i Lund och när är tiderna?",
+      "expected_keywords": ["teori", "körning i trafik"],
+      "comment": "Test innehåll från basfakta"
+    },
+    {
+      "expert": "stress",
+      "question": "AM-kurs i Malmö, vad kostar det och finns det på kvällstid?",
+      "expected_keywords": ["4499", "Malmö"],
+      "comment": "Test kombinerad fråga"
+    },
+    {
+      "expert": "stress",
+      "question": "mopedkurs i stockholm östermalm",
+      "expected_keywords": ["4499", "Stockholm"],
+      "comment": "Test alias östermalm -> Stockholm"
+    },
+    {
+      "expert": "stress",
+      "question": "Vad kostar AM-kurs i Kiruna?",
+      "expected_keywords": ["Tyvärr", "inget kontor"],
+      "comment": "Test okänd stad - ska triggas FÖRST"
+    },
+    {
+      "expert": "stress",
+      "question": "Jag vill boka en AM-kurs i Göteborg och veta vad som ingår, vilka tider som finns, vad det kostar, och om det finns kvällstider eller helger, samt om jag kan boka en bilkörlektion samtidigt.",
+      "expected_keywords": ["4499", "1349", "Boka här"],
+      "comment": "Test komplex fråga - Göteborg bil = 1349 SEK"
+    },
+    {
+      "expert": "stress",
+      "question": "Har ni AM-kurs i Malmö eller Lund?",
+      "expected_keywords": ["Malmö", "Lund"],
+      "comment": "Test flera städer"
+    },
+    {
+      "expert": "stress",
+      "question": "Vad kostar moppekurs i Gööteboorg?",
+      "expected_keywords": ["4499", "Göteborg"],
+      "comment": "Test kraftig felstavning"
+    },
+    {
+      "expert": "stress",
+      "question": "Vad är skillnaden mellan AM-kurs och bilkörlektion i Stockholm?",
+      "expected_keywords": ["AM", "körlektion"],
+      "comment": "Test jämförelse"
+    },
+    {
+      "expert": "stress",
+      "question": "Jag vill veta allt om AM-kurs i Göteborg, inklusive pris, innehåll, tider, kvällstider, helgtider, ålderskrav, och om jag kan boka en bilkörlektion samtidigt, samt hur jag bokar och vad som krävs för att få körkortstillstånd, och om ni har kurser i Mölndal eller Mölnlycke.",
+      "expected_keywords": ["4499", "körkortstillstånd", "1349", "Boka här"],
+      "comment": "Test extremt komplex fråga"
+    },
+    {
+      "expert": "stress",
+      "question": "Vad kostar AM-kurs i Österåker?",
+      "expected_keywords": ["5799", "Österåker"],
+      "comment": "NYT TEST: Specialpris Österåker"
+    },
+    {
+      "expert": "stress",
+      "question": "Bilkörlektion pris Limhamn",
+      "expected_keywords": ["1149", "Malmö"],
+      "comment": "NYT TEST: Limhamn bil (Malmö-Limhamn har 1149 SEK)"
+    }
+  ]
+}

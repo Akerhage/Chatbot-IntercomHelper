@@ -1,0 +1,29 @@
+{
+  "section_title": "BASFAKTA - MC-behörigheter (A, A1, A2)",
+  "source_info": "Information om de olika körkortsbehörigheterna för motorcykel.",
+  "license_a1": {
+    "title": "Vad är A1-körkort (Lätt motorcykel)?",
+    "answer": "A1-körkort ger dig rätt att köra lätta motorcyklar. Motorn får ha en slagvolym på högst 125 kubikcentimeter och en effekt på högst 11 kilowatt (kW).",
+    "keywords": ["vad är", "a1", "lätt motorcykel", "125cc", "11kw"]
+  },
+  "license_a2": {
+    "title": "Vad är A2-körkort (Mellanstor motorcykel)?",
+    "answer": "A2-körkort ger dig rätt att köra mellanstora motorcyklar. Motorn får ha en effekt på högst 35 kilowatt (kW) och får inte ursprungligen ha kommit från ett fordon med mer än 70 kW.",
+    "keywords": ["vad är", "a2", "mellanstor motorcykel", "35kw"]
+  },
+  "license_a": {
+    "title": "Vad är A-körkort (Tung motorcykel)?",
+    "answer": "A-körkort, även kallat tung motorcykel, ger dig rätt att köra alla två- och trehjuliga motorcyklar, oavsett slagvolym eller motoreffekt.",
+    "keywords": ["vad är", "a", "tung motorcykel", "obegränsad"]
+  },
+  "multi_wheel_rules": {
+    "title": "Vilka regler gäller för tre- eller fyrhjuliga motorcyklar?",
+    "answer": "För att köra trehjuliga motorcyklar med mer än 15 kW effekt krävs A-körkort (tung motorcykel) och att du har fyllt 21 år. För att köra fyrhjuliga motorcyklar krävs B-körkort (personbil), om du inte tog ditt MC-kort före 19 januari 2013.",
+    "keywords": ["regler", "trehjulig", "fyrhjulig", "motorcykel", "mc", "b-körkort", "ålder", "21 år"]
+  },
+  "mc_training_locations": {
+    "title": "Var kan man ta MC-körkort hos er?",
+    "answer": "Vi erbjuder utbildning för motorcykel (MC) i följande städer: Malmö, Stockholm/Österåker, Helsingborg, Kristianstad, Landskrona, Trelleborg, Lund, Ystad, Ängelholm, Hässleholm och Göteborg.",
+    "keywords": ["mc-utbildning", "städer", "trafikskolor", "var", "vilka", "kontor", "ta mc-kort"]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "section_title": "BASFAKTA - Specifika Guider & Mallar",
+  "source_info": "Unika guider och svar från tidigare e-postmallar.",
+  "booking_guide_app": {
+    "title": "Hur bokar jag lektioner eller paket i appen?",
+    "answer": "Du bokar genom att: 1. Ladda ner appen 'Mitt Körkort'. 2. Gå till 'Bokningar' och logga in. 3. Välj din stad, tjänst (lektion/paket), biltyp (manuell/automat) och lärare. 4. Välj en tid och betala i kassan med Klarna.",
+    "keywords": ["hur bokar", "boka", "paket", "lektioner", "mitt körkort", "appen", "schemalägg"]
+  },
+  "klarna_info": {
+    "title": "Vilka betalningsalternativ erbjuder ni?",
+    "answer": "Vi använder Klarna som betallösning, vilket innebär att du kan betala med Swish, kort, banköverföring, faktura eller delbetalning.",
+    "keywords": ["betalning", "betalningsalternativ", "klarna", "swish", "kort", "faktura", "delbetalning"]
+  },
+  "app_on_computer": {
+    "title": "Kan jag använda Mitt Körkort-appen på en dator?",
+    "answer": "Ja, du kan installera och använda appen på en dator med hjälp av ett program som heter Bluestacks, som simulerar en Android-enhet på din dator (PC/Mac).",
+    "keywords": ["mitt körkort", "appen", "dator", "pc", "mac", "bluestacks", "installera"]
+  },
+  "video_links": {
+    "title": "Har ni några instruktionsvideos?",
+    "answer": "Ja, vi har flera videos på YouTube som täcker ämnen som väjningsregler, parkering, miljö, halka och riskutbildningar. Sök på 'My Driving Academy' på YouTube för att hitta dem.",
+    "keywords": ["videos", "youtube", "länkar", "instruktioner", "väjningsregler", "parkering"]
+  }
+}

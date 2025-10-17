@@ -1,0 +1,39 @@
+{
+  "section_title": "BASFAKTA - Policy, Avtal och Vanliga Frågor",
+  "source_info": "Information om våra köpvillkor, avbokningsregler och integritetspolicy.",
+  "cancellation_normal": {
+    "title": "Vilka är era vanliga avbokningsregler?",
+    "answer": "Avbokning av vanliga körlektioner samt Risk 1 och Introduktionskurser ska ske senast kl 12:00 vardagen före. För Risk 2 (halkbanan) gäller senast kl 12:00, 4 vardagar innan.",
+    "keywords": ["avboka", "omboka", "avbokningsregler", "körlektion", "risk 1", "introduktionskurs", "risk 2"]
+  },
+  "cancellation_special": {
+    "title": "Vilka avbokningsregler gäller för AM- och MC-kurser?",
+    "answer": "Avbokning för en hel AM-utbildning ska ske senast kl 12:00 en vecka innan kursstart. För en MC Intensivkurs gäller senast kl 12:00 två veckor innan kursstart. Om du avbokar för sent debiteras hela avgiften.",
+    "keywords": ["avboka", "omboka", "avbokningsregler", "am-kurs", "mopedkurs", "mc", "motorcykel", "intensivkurs", "intensivvecka"]
+  },
+  "cancellation_sickness": {
+    "title": "Vad händer om jag blir akut sjuk och måste avboka sent?",
+    "answer": "Om du blir akut sjuk och inte kan komma på din lektion eller kurs kan du undvika att bli debiterad. Du måste då uppvisa ett giltigt sjukintyg (t.ex. från läkare, skola eller chef) inom en vecka från det avbokade tillfället. VAB (vård av barn) räknas INTE som giltig frånvaro.",
+    "keywords": ["sjuk", "sjukdom", "avboka", "sen avbokning", "sjukintyg", "läkarintyg", "vab"]
+  },
+  "validity_period": {
+    "title": "Hur länge är ett köpt paket eller lektioner giltiga?",
+    "answer": "Alla köp av lektioner och paket är giltiga i två år (24 månader) från inköpsdatum. Presentkort är giltiga i ett år.",
+    "keywords": ["giltig", "giltighetstid", "hur länge", "paket", "lektioner", "två år", "24 månader", "presentkort"]
+  },
+  "refund_policy": {
+    "title": "Vad gäller för ångerrätt och återbetalning?",
+    "answer": "Du har 14 dagars ångerrätt på ditt köp enligt distanshandelslagen. Efter 14 dagar kan återbetalning av oanvända delar i ett paket ske mot en administrativ avgift på 10%. Digitala teoripaket anses förbrukade vid köp och återbetalas inte.",
+    "keywords": ["ångerrätt", "återbetalning", "14 dagar", "bryta paket", "avbryta", "pengar tillbaka"]
+  },
+  "payment_policy": {
+    "title": "När måste jag betala för mina lektioner?",
+    "answer": "All betalning ska ske i förskott, innan din körlektion eller kurs startar. Du kan betala via Klarna i vår app 'Mitt Körkort'.",
+    "keywords": ["betalning", "betala", "när", "förskott", "klarna"]
+  },
+  "lesson_times": {
+    "title": "Vilka tider på dygnet kan man köra?",
+    "answer": "Du kan boka körlektioner från tidig morgon (oftast kl 07:00) till sen kväll (sista lektionen startar ca kl 19:20), beroende på vilken lärare och stad du bokar i.",
+    "keywords": ["tider", "körtider", "schema", "öppettider", "morgon", "kväll", "helg"]
+  }
+}

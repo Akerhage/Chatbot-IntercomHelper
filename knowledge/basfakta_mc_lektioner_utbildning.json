@@ -1,0 +1,34 @@
+{
+  "section_title": "BASFAKTA - MC Lektioner & Utbildning",
+  "source_info": "Information om våra MC-utbildningar, inklusive intensivkurser och lokala upplägg.",
+  "beginner_info": {
+    "title": "Jag är nybörjare på MC, hur börjar jag?",
+    "answer": "Om du är helt nybörjare på motorcykel rekommenderar vi att du bokar en 80-minuters singel-lektion som din första lektion. Då får du odelad uppmärksamhet från läraren för att gå igenom grunderna i en trygg miljö.",
+    "keywords": ["nybörjare", "mc", "motorcykel", "första lektionen", "börja"]
+  },
+  "intensive_course_prerequisites": {
+    "title": "Vilka förkunskaper krävs för intensivkursen för MC?",
+    "answer": "Vår intensivutbildning för MC riktar sig främst till dig som redan har kört en del motorcykel och känner dig trygg med att starta, stanna och växla. Innan kursen bokas du in på en testlektion för att säkerställa att du har rätt nivå för att tillgodogöra dig utbildningen.",
+    "keywords": ["förkunskaper", "krav", "intensivkurs", "intensivvecka", "mc", "motorcykel", "starta", "stanna", "växla"]
+  },
+  "intensive_course_content": {
+    "title": "Vad ingår i en intensivvecka för MC?",
+    "answer": "I priset för intensivveckan ingår en 80-minuters testlektion, 5 heldagar med körning på manöverbana och i trafik, Riskettan (Risk 1), Risktvåan (Risk 2), digitalt teorimaterial samt lån av MC och uppvärmning inför körprovet.",
+    "keywords": ["ingår", "innehåller", "intensivvecka", "mc", "motorcykel", "testlektion", "risk 1", "risk 2", "digital teori", "lån av mc"]
+  },
+  "intensive_course_sufficiency": {
+    "title": "Räcker det med en intensivvecka för att klara MC-kortet?",
+    "answer": "Förmodligen inte. De flesta elever behöver fler lektioner utöver de som ingår i intensivveckan, både före och efter kursen. Räkna med att du kan behöva ca 5 extra lektioner, men din lärare gör en individuell bedömning.",
+    "keywords": ["räcker", "intensivvecka", "mc", "motorcykel", "extra lektioner", "klarar man sig"]
+  },
+  "equipment_info": {
+    "title": "Behöver jag egen utrustning för MC-lektioner?",
+    "answer": "Vi tillhandahåller fullständig skyddsutrustning (hjälm, kläder, stövlar, handskar, ryggskydd) kostnadsfritt vid varje övningstillfälle. Du får självklart använda din egen utrustning om du föredrar det.",
+    "keywords": ["utrustning", "kläder", "hjälm", "skyddskläder", "låna", "mc", "motorcykel", "lektion"]
+  },
+  "gothenburg_duo_lesson": {
+    "title": "Vad är en DUO-lektion för MC i Göteborg?",
+    "answer": "En DUO-lektion i Göteborg är ett 100-minuters pass där två elever delar på en lärare. Detta upplägg är perfekt för att få mycket träning på manöverbanan (lågfart, högfart, bromsning) där båda eleverna kör varsin motorcykel samtidigt.",
+    "keywords": ["duo-lektion", "göteborg", "mc", "motorcykel", "100 minuter", "två elever", "stora holm"]
+  }
+}

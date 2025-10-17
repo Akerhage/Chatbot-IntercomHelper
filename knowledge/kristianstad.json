@@ -1,0 +1,344 @@
+{
+  "id": "martenssons_trafikskola_kristianstad",
+  "name": "Mårtenssons Trafikskola – Kristianstad",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Kristianstad",
+  "description": "Välkommen till Mårtenssons Trafikskola i Kristianstad! Hos Mårtenssons Trafikskola i Kristianstad får du en körkortsutbildning anpassad efter dina behov.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "kristianstad",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "044 – 140 99 20",
+    "email": "kristianstad@trafikskolan.com",
+    "address": "Kanalgatan 22, 291 34 Kristianstad"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 - 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "grekiska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 4499,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Kristianstad",
+        "4499 SEK (kronor/kr)",
+        "Boka AM här"
+      ]
+    },
+    {
+      "service_name": "Körlektion BIL",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "1199 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "999 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Körbedömning för sökande till Trafiklärarutbildningen BIL",
+      "price": 1400,
+      "currency": "SEK",
+      "keywords": [
+        "körbedömning",
+        "trafiklärarutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "1400 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "10299 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15399,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "15399 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "20499 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5699,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "5699 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11099,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "11099 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "16499 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "19999 SEK (kronor/kr)",
+        "Boka bil här"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "349 SEK (kronor/kr)"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "799 SEK (kronor/kr)"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 13999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "13999 SEK (kronor/kr)",
+        "Boka MC här"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "19999 SEK (kronor/kr)",
+        "Boka MC här"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "1349 SEK (kronor/kr)",
+        "Boka MC här"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6499,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "6499 SEK (kronor/kr)",
+        "Boka MC här"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 12799,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "12799 SEK (kronor/kr)",
+        "Boka MC här"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "799 SEK (kronor/kr)"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "5999 SEK (kronor/kr)"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4199,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "kristianstad",
+        "4199 SEK (kronor/kr)"
+      ]
+    }
+  ],
+  "booking_links": {
+    "car": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200024&locationId=200019",
+    "mc": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200024&locationId=200019",
+    "am": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200024&locationId=200019&serviceId=452"
+  }
+}

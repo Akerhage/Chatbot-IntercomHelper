@@ -1,0 +1,44 @@
+{
+  "section_title": "BASFAKTA - Lektioner och Paket (BIL & Släp)",
+  "source_info": "Information om alla lektioner, kurser och paket för personbil (B) och släp (B96/BE).",
+  "lesson_bil_regular": {
+    "title": "Vad är en vanlig körlektion för bil?",
+    "answer": "En vanlig körlektion (80 min) är för dig som behöver träna på specifika moment i din körning, antingen privat eller som en del av ett paket.",
+    "keywords": ["körlektion", "bil", "vanlig", "lektion", "80 min"]
+  },
+  "lesson_bil_test": {
+    "title": "Vad är en testlektion för bil?",
+    "answer": "En testlektion (80 min) är för dig som är ny hos oss. Tillsammans med en lärare bedömer ni din nuvarande nivå och skapar en komplett, personlig utbildningsplan. Bokas endast en gång.",
+    "keywords": ["testlektion", "bil", "planering", "nybörjare", "startlektion"]
+  },
+  "lesson_bil_mock_test": {
+    "title": "Vad är en prova-på-uppkörning?",
+    "answer": "Det är en 80-minuters lektion som är utformad för att vara så likt ett riktigt körprov som möjligt. Den är perfekt för dig som har ett prov bokat och vill testa dina kunskaper under press.",
+    "keywords": ["prova-på-uppkörning", "bil", "körprov", "uppkörning", "test"]
+  },
+  "totalpaket_bil": {
+    "title": "Vad ingår i era totalpaket för bil?",
+    "answer": "Våra totalpaket (t.ex. Totalpaket 5, 10, 15) är kompletta startpaket som innehåller körlektioner, Riskettan, Risktvåan (halkbanan) och digitalt teorimaterial i appen 'Mitt Körkort'.",
+    "keywords": ["totalpaket", "bil", "paket", "ingår", "innehåller", "risk 1", "risk 2"]
+  },
+  "lektionspaket_bil": {
+    "title": "Vad är era lektionspaket för bil?",
+    "answer": "Våra lektionspaket (t.ex. Minipaket, Mellanpaket, Baspaket) innehåller ett visst antal körlektioner (5, 10, eller 15 st) till ett rabatterat pris jämfört med att köpa dem styckvis.",
+    "keywords": ["lektionspaket", "minipaket", "mellanpaket", "baspaket", "bil", "paket", "köpa"]
+  },
+  "intensive_course_bil": {
+    "title": "Hur fungerar er två-veckors intensivkurs för bil?",
+    "answer": "Denna intensivutbildning pågår i två veckor och innehåller 16st körlektioner, Risk 1, Risk 2 och digital teori. Det är ett upplägg för dig som är väldigt flexibel med tider och kan köra varje dag under perioden.Proven bokas in veckan efter",
+    "keywords": ["intensivutbildning", "intensivkurs", "bil", "två veckor", "upplägg", "fungerar"]
+  },
+  "b96_guide": {
+    "title": "Hur tar man B96-körkort (utökad B)?",
+    "answer": "För B96 (utökad B) bokar du vårt B96-paket. Processen är: 1. Kontakta supporten för att boka. 2. Genomför dina körlektioner (oftast 160 min). 3. Ta ett nytt foto hos Trafikverket. 4. Genomför det speciella körprovet med oss. Inget teoriprov krävs.",
+    "keywords": ["b96", "utökad b", "släp", "upplägg", "process", "hur", "gör", "man", "ta"]
+  },
+  "be_guide": {
+    "title": "Hur tar man BE-körkort (tungt släp)?",
+    "answer": "För BE (tungt släp) är processen: 1. Säkerställ att du har ett giltigt körkortstillstånd. 2. Kontakta supporten för att boka vårt BE-paket. 3. Plugga teori med BE-boken. 4. Boka och klara kunskapsprovet hos Trafikverket. 5. Genomför dina körlektioner. 6. Genomför körprovet med oss.",
+    "keywords": ["be", "tungt släp", "upplägg", "process", "hur", "gör", "man", "ta", "krav", "körkortstillstånd", "teoriprov"]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "section_title": "BASFAKTA - Introduktionskurs/Handledarkurs BIL",
+  "source_info": "Information om introduktionskurs/handledarkurs för privat övningskörning.",
+  "what_it_is": {
+    "title": "Vad är en introduktionskurs (handledarkurs)?",
+    "answer": "En introduktionsutbildning, även kallad handledarkurs, är en obligatorisk kurs för både elev och privat handledare som krävs för att få övningsköra personbil privat. Kursen går igenom körkortsutbildningens upplägg och ger tips för en effektiv privat övningskörning.",
+    "keywords": ["vad är", "introduktionskurs", "introkurs", "handledarkurs", "handledarutbildning", "obligatorisk", "personbil", "privat"]
+  },
+  "course_duration": {
+    "title": "Hur lång tid tar en handledarutbildning?",
+    "answer": "En handledarkurs är cirka tre och en halv timme lång, inklusive pauser.",
+    "keywords": ["längd", "tid", "hur lång tid", "tre och en halv timme", "handledarutbildning", "introduktionskurs"]
+  },
+  "attendance_rules": {
+    "title": "Måste både elev och handledare gå kursen?",
+    "answer": "Ja, både du som ska ta körkort och din handledare behöver gå och bli godkända på en handledarutbildning. Ni behöver dock inte gå kursen samtidigt eller på samma trafikskola.",
+    "keywords": ["måste", "både", "elev", "handledare", "pappa", "mamma", "samtidigt", "tillsammans", "introduktionskurs"]
+  },
+  "validity_period": {
+    "title": "Hur länge är en handledarkurs giltig?",
+    "answer": "En genomförd och godkänd handledarutbildning är giltig i 5 år från det datum den genomfördes.",
+    "keywords": ["giltig", "giltighetstid", "hur länge", "5 år", "fem år", "handledarkurs", "introduktionskurs"]
+  },
+  "license_requirement_for_course": {
+    "title": "Behöver man körkortstillstånd för att gå introkursen?",
+    "answer": "Nej, du behöver inget körkortstillstånd för att få gå själva introduktionskursen. Däremot måste eleven ha ett giltigt körkortstillstånd för att ni sedan ska kunna ansöka om och bli godkända för handledarskap.",
+    "keywords": ["behöver man", "körkortstillstånd", "krav", "för att gå", "introkursen", "introduktionskurs"]
+  },
+  "supervisor_requirements": {
+    "title": "Vilka krav finns för att bli handledare?",
+    "answer": "För att bli godkänd som handledare måste du ha fyllt 24 år, ha ett giltigt B-körkort från ett EES-land som du har haft i minst fem av de senaste tio åren, och inte ha förlorat körkortet de senaste tre åren p.g.a. t.ex. rattfylleri.",
+    "keywords": ["krav", "handledare", "bli", "ålder", "24 år", "giltigt körkort", "fem år"]
+  },
+  "supervisor_certificate_process": {
+    "title": "Hur ansöker man om handledarskap?",
+    "answer": "Efter att både elev och handledare har gått introduktionskursen, ansöker handledaren om 'godkännande som handledare' på Transportstyrelsens e-tjänst. Handledarbeviset är digitalt och kostar inget extra.",
+    "keywords": ["ansöka", "handledarskap", "handledarbevis", "transportstyrelsen", "e-tjänst", "process"]
+  }
+}

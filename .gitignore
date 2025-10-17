@@ -1,0 +1,13 @@
+# Loggfiler
+*.log
+server_log.txt
+test_log.txt
+
+# Node.js beroenden
+node_modules/
+
+# Miljöfil
+.env
+
+# Auto-genererad
+package-lock.json

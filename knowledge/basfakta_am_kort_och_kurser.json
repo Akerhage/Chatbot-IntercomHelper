@@ -1,0 +1,96 @@
+{
+  "section_title": "BASFAKTA - AM-kort och AM-kurser",
+  "source_info": "Informationen kommer från Transportstyrelsens sida samt vår hemsida.",
+  "sections": [
+    {
+      "title": "Vad är ett AM-körkort (moped klass 1, EU-moppe)?",
+      "answer": "Med ett körkort med behörighet AM får du köra moped klass 1 som är konstruerad för en hastighet på högst 45 km/tim. En sådan moped är ett registreringspliktigt fordon och måste ha registreringsskylt. Det finns ingen skillnad mellan en moped klass 1 och en EU-moppe.",
+      "keywords": ["am", "körkort", "moped", "klass 1", "eu-moppe", "ingen skillnad", "Moped klass 1"]
+    },
+    {
+      "title": "Vilka är kraven för att få ett AM-körkort?",
+      "answer": "För att få ett AM-körkort krävs: Ett giltigt körkortstillstånd. Du ska ha gått en utbildning hos en behörig utbildare och utbildningen ska vara minst 12 timmar lång. Du ska ha fyllt 15 år. Du ska ha gjort ett godkänt kunskapsprov på Trafikverket.",
+      "keywords": ["krav", "am", "körkort", "ålder", "utbildning", "krävs", "behöver"]
+    },
+    {
+      "title": "Vad ingår i en AM-kurs?",
+      "answer": "Teoriundervisning (minst 8 timmar), digitalt teorimaterial i appen 'Mitt Körkort', manöverkörning på bana (minst 4 timmar), en avslutande körning i trafik, lån av moped, hjälm och skyddsutrustning.",
+      "keywords": ["am", "kurs", "ingår", "teori", "manöverkörning", "trafik"]
+    },
+    {
+      "title": "Var kan man gå AM-kurs?",
+      "answer": "Vi erbjuder AM-kurser på alla våra trafikskolor utom i Österåker. Det kan vara så att vissa kontor erbjuder AM-kurser på kvällar och helger, annars erbjuder alla skolor utbildning under loven om eleven inte kan komma ifrån skolan.",
+      "keywords": ["am", "kurs", "platser", "kontor", "österåker"]
+    },
+    {
+      "title": "När hålls AM-kursens lektioner?",
+      "answer": "Manöverkörningen sker i grupp och kan inte ändras, medan trafikkörningen kan ändras om eleven saknar körkortstillstånd. Elever får boka på skol-loven, kvällar eller helger om de inte kan komma från skolan under den vecka som kursen hålls, för mer exakta tider fråga kontoret du önskar boka direkt.",
+      "keywords": ["am", "kurs", "tider", "lektioner", "manöverkörning", "trafik", "kvällar eller helger"]
+    },
+    {
+      "title": "Får man övningsköra AM-moped privat?",
+      "answer": "Nej, privat övningskörning är inte tillåtet för AM-moped. All övningskörning måste ske hos en behörig utbildare.",
+      "keywords": ["am", "övningsköra", "privat", "moped", "inte tillåtet", "övningsköra privat", "AM Mopedutbildning"]
+    },
+    {
+      "title": "Prov för AM-körkort",
+      "answer": "Inget körprov krävs. Du behöver endast göra ett kunskapsprov (teoriprov) på Trafikverket.",
+      "keywords": ["am", "prov", "körprov", "teoriprov", "Trafikverket"]
+    },
+    {
+      "title": "AM-Kursens Längd & Ålderskrav för Övningskörning",
+      "answer": "Kursen är minst 12 timmar lång (8 timmar teori, 4 timmar praktik). Du måste ha fyllt 14 år och 9 månader och ha ett giltigt körkortstillstånd för att börja de praktiska delarna (övningskörning).",
+      "keywords": ["am", "kurs", "längd", "ålder", "övningskörning"]
+    },
+    {
+      "title": "Kör extra försiktigt under prövotiden",
+      "answer": "Under prövotiden (2 år) för AM-körkort måste du köra extra försiktigt. Om körkortet återkallas under denna tid måste du göra om hela processen för att få ett nytt AM-körkort.",
+      "keywords": ["am", "körkort", "prövotid"]
+    },
+    {
+      "title": "Klara körprovet",
+      "answer": "Inget körprov krävs för AM-körkort, trafikkörningen räknas som 'körprov', endast ett kunskapsprov (teoriprov) hos Trafikverket skall göras efter godkänd AM utbildning. Se till att plugga teorin ordentligt via appen 'Mitt Körkort' och gå på alla teorilektioner för att klara provet.",
+      "keywords": ["am", "körprov", "teoriprov", "Trafikverket"]
+    },
+    {
+      "title": "Tider för AM-kurs",
+      "content": "Elever får boka på skol-loven, kvällar eller helger om de inte kan komma från skolan. Manöverkörningen sker i grupp och kan inte bytas, medan trafikkörningen kan bytas om eleven saknar körkortstillstånd.",
+      "keywords": ["tider", "kvällar eller helger", "AM Mopedutbildning", "skol-loven", "manöverkörning", "trafik", "Malmö", "Göteborg", "Stockholm", "Lund"]
+    },
+    {
+      "title": "Skillnad Moped klass 1 och EU-moppe",
+      "content": "Det finns ingen skillnad mellan Moped klass 1 och EU-moppe; båda är samma typ av fordon, konstruerade för max 45 km/tim.",
+      "keywords": ["skillnad", "ingen skillnad", "Moped klass 1", "EU-moppe", "AM Mopedutbildning"]
+    },
+    {
+      "title": "Bokning av AM-kurs",
+      "content": "Du kan boka AM-kurs via vår bokningslänk: Boka här. Kontakta oss på 010-20 70 775 för hjälp med bokning.",
+      "keywords": ["bokning", "Boka här", "AM Mopedutbildning", "anmäla"]
+    },
+    {
+      "title": "AM-kurs i Göteborg",
+      "content": "AM-kurs i Göteborg kostar 4499 SEK och kan bokas via vår bokningslänk: Boka här. Kursen erbjuds på flera kontor: Högbo, Mölndal, Mölnlycke, Ullevi, Västra Frölunda.",
+      "keywords": ["am", "kurs", "Göteborg", "4499 SEK", "Boka här", "Högbo", "Mölndal", "Mölnlycke", "Ullevi", "Västra Frölunda"]
+    },
+    {
+      "title": "Skillnad AM-kurs och bilkörlektion",
+      "content": "AM-kurs utbildar för Moped klass 1 (max 45 km/tim), medan bilkörlektion utbildar för personbil. Det finns ingen skillnad mellan Moped klass 1 och EU-moppe, men AM och bilkörlektion skiljer sig åt i fordonstyp och utbildningskrav.",
+      "keywords": ["skillnad", "ingen skillnad", "Moped klass 1", "AM Mopedutbildning", "bilkörlektion", "personbil"]
+    },
+    {
+      "title": "AM-kurs i Kiruna",
+      "answer": "Vi erbjuder tyvärr inte AM-kurs i Kiruna. Kontakta vår support på 010-20 70 775 för alternativ.",
+      "keywords": ["am", "kurs", "kiruna", "support", "010-20 70 775"]
+    },
+    {
+      "title": "Behöver jag körkortstillstånd för AM?",
+      "answer": "Ja, körkortstillstånd krävs för att få ett AM-körkort. Du måste ansöka hos Transportstyrelsen.",
+      "keywords": ["am", "körkortstillstånd", "krävs", "behöver"]
+    },
+    {
+      "title": "Får jag övningsköra privat med moppe?",
+      "answer": "Nej, det är inte tillåtet att övningsköra privat för AM-moped. All övningskörning måste ske hos behörig utbildare.",
+      "keywords": ["am", "övningsköra privat", "inte tillåtet", "moped"]
+    }
+  ]
+}

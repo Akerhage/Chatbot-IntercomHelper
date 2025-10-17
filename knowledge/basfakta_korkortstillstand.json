@@ -1,0 +1,39 @@
+{
+  "section_title": "BASFAKTA - Körkortstillstånd",
+  "source_info": "Information från Transportstyrelsens sida om Körkortstillstånd.",
+  "what_it_is": {
+    "title": "Vad är ett körkortstillstånd?",
+    "answer": "Ett körkortstillstånd är ett obligatoriskt tillstånd från Transportstyrelsen som du måste ha för att få övningsköra (både privat och på trafikskola) och för att få göra dina körkortsprov.",
+    "keywords": ["vad är", "körkortstillstånd", "tillstånd", "transportstyrelsen", "övningsköra", "körkortsprov"]
+  },
+  "application_process_group1": {
+    "title": "Hur ansöker jag om körkortstillstånd för bil, MC eller moped (Grupp 1)?",
+    "answer": "Du ansöker snabbt och enkelt via Transportstyrelsens e-tjänst 'Ansök om körkortstillstånd (grupp 1)'. Förutom själva ansökan behöver du också göra ett syntest hos en optiker, som oftast kan skickas in digitalt.",
+    "keywords": ["hur ansöker", "ansökan", "körkortstillstånd", "bil", "mc", "moped", "am", "b", "grupp 1", "e-tjänst", "transportstyrelsen", "synintyg"]
+  },
+  "application_process_group2_3": {
+    "title": "Hur ansöker jag om körkortstillstånd för lastbil eller buss?",
+    "answer": "För tung behörighet (lastbil/buss) ansöker du också via Transportstyrelsens e-tjänst, men för grupp 2 eller 3. Istället för ett syntest behöver du skicka in ett läkarintyg från en läkare.",
+    "keywords": ["hur ansöker", "ansökan", "körkortstillstånd", "lastbil", "buss", "c", "d", "grupp 2", "grupp 3", "läkarintyg"]
+  },
+  "cost": {
+    "title": "Vad kostar ett körkortstillstånd?",
+    "answer": "Själva ansökan om körkortstillstånd hos Transportstyrelsen är gratis. Däremot tillkommer kostnader för de intyg som krävs, såsom synundersökningen hos en optiker eller läkarundersökningen för tunga behörigheter.",
+    "keywords": ["vad kostar", "pris", "kostnad", "avgift", "gratis", "körkortstillstånd", "synundersökning"]
+  },
+  "validity_period": {
+    "title": "Hur länge gäller ett körkortstillstånd?",
+    "answer": "Ett körkortstillstånd är giltigt i fem år från den dag det utfärdas. Det kan inte förlängas, så om det går ut måste du ansöka om ett nytt.",
+    "keywords": ["hur länge", "giltighetstid", "giltigt", "fem år", "5 år", "förlänga", "körkortstillstånd"]
+  },
+  "processing_time": {
+    "title": "Hur lång är handläggningstiden för ett körkortstillstånd?",
+    "answer": "Normalt tar det upp till fyra veckor att få körkortstillståndet om alla handlingar (ansökan och syn/läkarintyg) har kommit in och är korrekta. Vid högt tryck eller om en utredning krävs kan det ta längre tid.",
+    "keywords": ["handläggningstid", "hur lång tid", "väntetid", "fyra veckor", "4 veckor", "körkortstillstånd"]
+  },
+  "age_requirement_application": {
+    "title": "Hur gammal måste man vara för att ansöka om körkortstillstånd?",
+    "answer": "Det finns ingen åldersgräns för att ansöka. Däremot finns det åldersgränser för när du får börja övningsköra (t.ex. 16 år för bil) och ta själva körkortet.",
+    "keywords": ["åldersgräns", "ålder", "hur gammal", "ansöka", "söka", "körkortstillstånd"]
+  }
+}

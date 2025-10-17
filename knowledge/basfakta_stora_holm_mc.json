@@ -1,0 +1,62 @@
+{
+  "id": "basfakta_stora_holm_mc",
+  "name": "Stora Holm – Manöverbana för MC och Halkbana",
+  "brand": "My Driving Academy",
+  "city": "Göteborg",
+  "description": "Stora Holm är vår dedikerade plats för manöverkörning för MC (lågfart, högfart, bromsning) och halkbana för bil-elever. Här hålls också risk 2 för MC. Det är inget kontor, utan en bana med 2 lärare under MC-säsongen. Fördelen är att elever kan starta direkt på banan i ett inhägnat område.",
+  "keywords": [
+    "stora holm",
+    "manöverbana",
+    "mc",
+    "motorcykel",
+    "lågfart",
+    "högfart",
+    "bromsning",
+    "halkbana",
+    "risk 2",
+    "göteborg",
+    "utbildning"
+  ],
+  "contact": {
+    "phone": "031 336 26 65",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Holmvägen 55"
+  },
+  "opening_hours": [
+    {
+      "days": "MC-säsongen",
+      "hours": "April-oktober (kontakta support för exakta tider)"
+    }
+  ],
+  "services_offered": [
+    "Manöverkörning MC",
+    "Risk 2 MC",
+    "Halkbana Bil"
+  ],
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "sections": [
+    {
+      "title": "Manöverkörning för MC",
+      "content": "På Stora Holm erbjuder vi träning i lågfart, högfart och bromsning för MC-elever. Det är ett inhägnat område där du kan starta direkt med en av våra 2 dedikerade lärare under säsongen.",
+      "keywords": ["manöverkörning", "lågfart", "högfart", "bromsning", "mc"]
+    },
+    {
+      "title": "Risk 2 för MC",
+      "content": "Riskutbildning del 2 (halkbana) för MC hålls här. Pris: [hämta från basfakta_riskutbildning_bil_mc.json, t.ex. 3399 SEK].",
+      "keywords": ["risk 2", "risktvåan", "mc", "halkbana"]
+    },
+    {
+      "title": "Halkbana för Bil",
+      "content": "Även halkbana för bil-elever (risk 2) erbjuds på Stora Holm.",
+      "keywords": ["halkbana", "risk 2", "bil"]
+    }
+  ],
+  "booking_links": {
+    "mc": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Service&regionId=200005&locationId=200056&serviceId=200316",
+    "car": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200001&locationId=1",
+    "am": null
+  }
+}

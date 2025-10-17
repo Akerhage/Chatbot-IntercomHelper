@@ -1,0 +1,24 @@
+{
+  "section_title": "BASFAKTA - Snabbfrågor Personbil (B)",
+  "source_info": "Snabba svar på vanliga, unika frågor om B-körkort.",
+  "age_requirement_license": {
+    "title": "Vad är åldersgränsen för att ta B-körkort (personbil)?",
+    "answer": "För att få ett B-körkort måste du ha fyllt 18 år.",
+    "keywords": ["åldersgräns", "ålder", "b-körkort", "personbil", "18 år", "hur gammal"]
+  },
+  "age_requirement_practice": {
+    "title": "När kan jag börja övningsköra för bil?",
+    "answer": "Du kan börja övningsköra för personbil från den dag du fyller 16 år, förutsatt att du har ett giltigt körkortstillstånd och en godkänd handledare.",
+    "keywords": ["ålder", "övningsköra", "börja", "16 år", "hur gammal"]
+  },
+  "manual_vs_automatic_1": {
+    "title": "Får jag köra automat om jag tar körkort för manuell?",
+    "answer": "Ja, om du tar ett B-körkort för manuellt växlad bil får du köra både manuella och automatväxlade bilar.",
+    "keywords": ["köra automat", "manuell", "körkort", "behörighet", "får jag"]
+  },
+  "manual_vs_automatic_2": {
+    "title": "Vad händer om jag tar körkort för automat?",
+    "answer": "Om du gör din uppkörning med en automatväxlad bil får ditt körkort ett villkor (kod 78) som innebär att du endast får köra bilar med automatlåda. För att få köra manuellt måste du göra ett nytt, godkänt körprov med en manuell bil.",
+    "keywords": ["körkort för automat", "automatkörkort", "villkor 78", "begränsning", "uppkörning"]
+  }
+}

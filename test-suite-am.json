@@ -1,0 +1,59 @@
+{
+  "tests": [
+    {
+      "expert": "am",
+      "question": "Vad kostar AM-kursen?",
+      "expected_keywords": ["4499"]
+    },
+    {
+      "expert": "am",
+      "question": "Kan jag ta AM-kursen i Göteborg?",
+      "expected_keywords": ["Göteborg", "4499"]
+    },
+    {
+      "expert": "am",
+      "question": "Vad ingår i en am-kurs?",
+      "expected_keywords": ["teori", "manöverkörning", "körning i trafik", "lån av moped", "hjälm", "skyddsutrustning"]
+    },
+    {
+      "expert": "am",
+      "question": "Hur lång är AM-kursen?",
+      "expected_keywords": ["12 timmar"]
+    },
+    {
+      "expert": "am",
+      "question": "Kan jag övningsköra privat med mopeden?",
+      "expected_keywords": ["övningsköra privat", "inte tillåtet"]
+    },
+    {
+      "expert": "am",
+      "question": "Vad är åldersgränsen för AM-kurs?",
+      "expected_keywords": ["14 år och 9 månader"]
+    },
+    {
+      "expert": "am",
+      "question": "Behöver jag körkortstillstånd för AM-kurs?",
+      "expected_keywords": ["krävs", "körkortstillstånd"]
+    },
+    {
+      "expert": "am",
+      "question": "Kan jag boka AM-kurs online?",
+      "expected_keywords": ["Boka här"]
+    },
+    {
+      "expert": "am",
+      "question": "Vad är skillnaden på Moped klass 1 och en EU-moppe?",
+      "expected_keywords": ["ingen skillnad", "Moped klass 1", "EU-moppe"]
+    },
+    {
+      "expert": "am",
+      "question": "Hej jag funderar på att anmäla min son till er AM-kurs nästa vecka, men kan inte riktigt se när tiderna är? Är det bara ett teoritillfälle man skall gå? Kan du berätta lite vad som ingår i kursen och vad kostar den? Vi bor i Mölndal, är lektionerna under skoltid för Alfons har ju skola på dagarna?",
+      "expected_keywords": ["4499", "teori", "manöverkörning", "körning i trafik", "Boka här"]
+    },
+    {
+      "expert": "am",
+      "question": "Är 4499kr allt man måste betala, ingår allt då? Finns det kläder och moppe där?",
+      "expected_keywords": ["4499", "lån av moped", "hjälm", "skyddsutrustning"]
+    }
+  ]
+}

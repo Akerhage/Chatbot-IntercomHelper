@@ -1,0 +1,20 @@
+{
+  "name": "intercom-ai-helper",
+  "version": "39.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js > server_log.txt 2>&1",
+    "test": "node autotest.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "clipboardy": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "minisearch": "^7.2.0",
+    "openai": "^4.104.0"
+  }
+}

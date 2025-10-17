@@ -1,0 +1,44 @@
+{
+  "section_title": "BASFAKTA - Riskutbildning Bil och MC",
+  "source_info": "Information om Risk 1 och Risk 2 för Bil och MC.",
+  "risk_education_general": {
+    "title": "Vad är riskutbildning?",
+    "answer": "Riskutbildningen är en obligatorisk del av körkortsutbildningen som består av två delar: Del 1 (Riskettan) är teoretisk och handlar om riskfyllda beteenden. Del 2 (Risktvåan) är praktisk och handlar om hastighet, säkerhet och körning under svåra förhållanden (t.ex. halka). Båda delarna måste vara godkända innan du får göra dina prov hos Trafikverket.",
+    "keywords": ["vad är", "riskutbildning", "obligatorisk", "riskettan", "risktvåan", "halkbana"]
+  },
+  "validity_period": {
+    "title": "Hur länge är en riskutbildning giltig?",
+    "answer": "En genomförd och godkänd riskutbildning (både del 1 och 2) är giltig i 5 år från det datum den sista delen genomfördes.",
+    "keywords": ["giltig", "giltighetstid", "hur länge", "5 år", "fem år", "riskutbildning"]
+  },
+  "risk1_bil": {
+    "title": "Vad är Riskettan för Bil (Risk 1)?",
+    "answer": "Riskettan för bil är en teoretisk utbildning på cirka 3,5 timmar som handlar om riskerna med alkohol, droger, trötthet och andra riskfyllda beteenden i trafiken. Inget körkortstillstånd krävs för att delta.",
+    "keywords": ["vad är", "riskettan", "risk 1", "bil", "teori", "alkohol", "droger", "trötthet"]
+  },
+  "risk2_bil": {
+    "title": "Vad är Risktvåan för Bil (Risk 2 / Halkbanan)?",
+    "answer": "Risktvåan för bil, även kallad halkbanan, är en praktisk utbildning på cirka 4-5 timmar. Där får du lära dig att hantera bilen i svåra situationer och på halt väglag. Du bör ha kommit en bra bit i din körning innan du gör denna del.",
+    "keywords": ["vad är", "risktvåan", "risk 2", "bil", "halkbana", "halkkörning", "praktisk"]
+  },
+  "risk1_mc": {
+    "title": "Vad är Riskettan för MC (Risk 1)?",
+    "answer": "Riskettan för MC är en teoretisk utbildning som, precis som för bil, handlar om alkohol, droger, trötthet och andra riskfyllda beteenden, men med ett specifikt fokus på risker för motorcyklister.",
+    "keywords": ["vad är", "riskettan", "risk 1", "mc", "motorcykel", "teori"]
+  },
+  "risk2_mc": {
+    "title": "Vad är Risktvåan för MC (Risk 2)?",
+    "answer": "Risktvåan för MC är en praktisk utbildning som fokuserar på hastighet, säkerhet och körning vid olika vägförhållanden för motorcyklister, inklusive avancerad manöverträning.",
+    "keywords": ["vad är", "risktvåan", "risk 2", "mc", "motorcykel", "manöverbana", "praktisk"]
+  },
+  "retake_for_mc": {
+    "title": "Måste jag göra om riskutbildningen för MC om jag redan har den för bil?",
+    "answer": "Ja, du måste genomföra riskutbildning 1 och 2 specifikt för motorcykel. En riskutbildning för personbil är inte giltig för MC, eftersom olycksriskerna och innehållet i utbildningarna är olika.",
+    "keywords": ["göra om", "riskutbildning", "mc", "motorcykel", "bil", "separat", "ny kurs"]
+  },
+  "nollvisionen": {
+    "title": "Vad är Nollvisionen?",
+    "answer": "Nollvisionen är ett mål beslutat av Sveriges riksdag som innebär att ingen ska dödas eller skadas allvarligt i trafiken. Det är en grundläggande princip för allt trafiksäkerhetsarbete i Sverige.",
+    "keywords": ["nollvisionen", "trafiksäkerhet", "sverige"]
+  }
+}

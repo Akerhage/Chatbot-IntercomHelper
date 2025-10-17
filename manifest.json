@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Intercom AI Helper",
+  "version": "3.0",
+  "description": "Genererar svar i Intercom baserat på en lokal kunskapsbas (knowledge.json).",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://app.intercom.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://app.intercom.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

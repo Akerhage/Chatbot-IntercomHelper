@@ -1,0 +1,77 @@
+{
+  "section_title": "BASFAKTA – 12-stegsguide för hur man tar ett körkort för bil",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Körkortstillstånd",
+      "description": "Första steget är att ansöka om ett körkortstillstånd hos Transportstyrelsen, vilket inkluderar ett syntest. Detaljerad information finns i vår kunskapsbas.",
+      "keywords": ["steg 1", "körkortstillstånd"]
+    },
+    {
+      "step": 2,
+      "title": "Gå handledarutbildningen",
+      "description": "Om du ska övningsköra privat måste både du och din handledare gå en introduktionskurs. Detaljerad information finns i vår kunskapsbas.",
+      "keywords": ["steg 2", "handledarutbildning", "introduktionskurs"]
+    },
+    {
+      "step": 3,
+      "title": "Övningskör privat och skaffa körkort billigare",
+      "description": "Ju fler timmar du övar privat desto färre körlektioner behöver du på trafikskola. Ett bra sätt är att kombinera din utbildning mellan att köra privat samt med en trafikskola.",
+      "keywords": ["övningskör privat", "pris", "billigare", "kostnad", "spara pengar", "kombinera", "trafikskola", "steg 3"]
+    },
+    {
+      "step": 4,
+      "title": "Ta körlektioner med våra licensierade lärare",
+      "description": "Blanda din privata övningskörning med körlektioner med våra licensierade trafiklärare. Hos oss kör du alltid 80 min (dubbellektioner) för att få ut så mycket som möjligt av varje lektion.",
+      "keywords": ["körlektioner", "trafiklärare", "dubbellektioner", "80 min", "hämta", "lämna", "kvällar", "helger", "steg 4"]
+    },
+    {
+      "step": 5,
+      "title": "Plugga all körkortsteori du behöver, helt utan böcker!",
+      "description": "Använd ‘Mitt Körkort’-appen för att öva på över 1 000 teorifrågor. En engångsbetalning ger dig obegränsad tillgång till all körkortsteori.",
+      "keywords": ["körkortsteori", "teori", "plugga", "mitt körkort", "appen", "teoripaket", "teorifrågor", "vagmärken", "skyltar", "pris", "steg 5"]
+    },
+    {
+      "step": 6,
+      "title": "Riskettan är den första obligatoriska kursen",
+      "description": "Riskettan är en teoretisk utbildning om risker som alkohol, droger och trötthet. Detaljerad information finns i vår kunskapsbas.",
+      "keywords": ["steg 6", "riskettan", "riskutbildning del 1"]
+    },
+    {
+      "step": 7,
+      "title": "Halkbanan är den andra obligatoriska kursen",
+      "description": "Risktvåan, även kallad halkbanan, är en praktisk utbildning för att hantera bilen under svåra vägförhållanden. Detaljerad information finns i vår kunskapsbas.",
+      "keywords": ["steg 7", "halkbanan", "risktvåan", "riskutbildning del 2"]
+    },
+    {
+      "step": 8,
+      "title": "Utbildningskontroll är ett nyttigt genrep",
+      "description": "En 'prova-på-uppkörning' med en ny lärare för att bedöma om du är redo för de riktiga körkortsproven.",
+      "keywords": ["utbildningskontroll", "genrep", "prova-på-uppkörning", "fejkad uppkörning", "bedömning", "redo för prov", "steg 8"]
+    },
+    {
+      "step": 9,
+      "title": "Äntligen redo att boka dina körkortsprov!",
+      "description": "När du är godkänd på din utbildningskontroll är det dags att boka teoriprov (kunskapsprov) och uppkörning (förarprov) hos Trafikverket.",
+      "keywords": ["boka prov", "körkortsprov", "teoriprov", "kunskapsprov", "uppkörning", "förarprov", "trafikverket", "steg 9"]
+    },
+    {
+      "step": 10,
+      "title": "Så här klarar du ditt teoriprov",
+      "description": "Provet görs på dator hos Trafikverket och består av 70 frågor, varav minst 52 måste vara rätt. Använd vår app 'Mitt Körkort' för att öva.",
+      "keywords": ["teoriprov", "kunskapsprov", "klara provet", "70 frågor", "52 rätt", "godkänd", "mitt körkort", "steg 10"]
+    },
+    {
+      "step": 11,
+      "title": "Klara körprovet",
+      "description": "Uppkörningen börjar med en säkerhetskontroll och följs av cirka 30-40 minuters körning med en förarprövare från Trafikverket.",
+      "keywords": ["körprov", "uppkörning", "klara provet", "säkerhetskontroll", "förarprövare", "trafikverket", "steg 11"]
+    },
+    {
+      "step": 12,
+      "title": "Kör extra försiktigt under prövotiden",
+      "description": "Ditt körkort har en prövotid på 2 år. Om körkortet dras in under denna tid måste du göra om förarprovet.",
+      "keywords": ["prövotid", "2 år", "körkort indraget", "göra om prov", "förarprov", "steg 12"]
+    }
+  ]
+}

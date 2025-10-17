@@ -1,0 +1,24 @@
+{
+  "section_title": "BASFAKTA - Lektioner och Paket (MC)",
+  "source_info": "Generell information om lektioner och paket för motorcykel (MC).",
+  "lesson_estimation": {
+    "title": "Hur många körlektioner behövs för MC-kort?",
+    "answer": "Det är väldigt individuellt, men en grov uppskattning är att det oftast behövs mellan 15 och 20 körlektioner (à 80 min) innan en elev är redo för prov, om man inte har kört mycket privat.",
+    "keywords": ["hur många", "antal", "körlektioner", "lektioner", "mc", "motorcykel", "behövs", "uppskattning"]
+  },
+  "total_packages_info": {
+    "title": "Vad ingår generellt i ett Totalpaket för MC?",
+    "answer": "Våra Totalpaket för MC (t.ex. Totalpaket 5, 10) är startpaket som vanligtvis innehåller ett antal körlektioner, båda riskutbildningarna (Risk 1 & 2), digitalt teorimaterial samt uppvärmning och lån av MC vid körprovet.",
+    "keywords": ["ingår", "totalpaket", "mc", "motorcykel", "paket", "innehåller"]
+  },
+  "lesson_packages_info": {
+    "title": "Vad är era lektionspaket för MC?",
+    "answer": "Våra lektionspaket för MC (t.ex. Lektionspaket 5, 10) innehåller ett visst antal körlektioner till ett rabatterat pris jämfört med att köpa dem en och en.",
+    "keywords": ["lektionspaket", "mc", "motorcykel", "paket", "köpa"]
+  },
+  "duo_lesson_info": {
+    "title": "Vad är en DUO-lektion för MC?",
+    "answer": "På vissa orter, som Göteborg, erbjuder vi DUO-lektioner. Det är ett längre pass (100 min) där två elever delar på en lärare, vilket är väldigt effektivt för manöverträning på bana.",
+    "keywords": ["duo-lektion", "mc", "motorcykel", "göteborg", "två elever"]
+  }
+}
